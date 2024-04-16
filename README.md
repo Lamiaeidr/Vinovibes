@@ -9,7 +9,7 @@ A machine learning project about predicting food time delivery with the RandomFo
 
 ## Streamlit Demo App
 
-[![Streamlit App]([https://vinovibes.streamlit.app]/)/)
+[![Streamlit App](https://vinovibes.streamlit.app)
 
 
 
